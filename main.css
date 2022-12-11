@@ -1,0 +1,36 @@
+head {
+    font-size: 22px;
+}
+
+body {
+    background-color: rgb(44, 44, 44);
+    color: lavenderblush;
+
+}
+
+a {
+
+
+    color: aliceblue;
+}
+
+
+a:visited {
+    color: rgb(8, 233, 233);
+}
+
+a:hover,
+a:active {
+    color: beige;
+}
+
+table,
+thead,
+tbody,
+tr,
+td,
+th {
+    border: 1px solid;
+    /* border-collapse: collapse; */
+    padding: 0.3rem;
+}
